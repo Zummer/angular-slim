@@ -1,0 +1,6 @@
+[submodule "test1"]
+	path = test1
+	url = git@github.com:Zummer/angular-rest.git
+[submodule "rest1"]
+	path = rest1
+	url = git@github.com:Zummer/slim2rest-redbean.git
