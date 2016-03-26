@@ -33,9 +33,7 @@ $ composer install
 </pre>
 </div>
 
-<pre>
-Demo frontend
-http://test1.plottex.ru
-Demo resources
-http://rest1.plottex.ru/items
-</pre>
+<p>
+Demo frontend: http://test1.plottex.ru
+Demo resources: http://rest1.plottex.ru/items
+</p>
